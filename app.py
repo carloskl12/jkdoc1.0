@@ -9,6 +9,8 @@ import sqlite3
 
 from src import IngresoDeDatos, JkListCtrl, Respuesta, LIST_LANGUAGES
 from src import BusquedaDeDatos
+
+print('Python version: '+sys.version)
 print ' ** wx version: %s'%wx.__version__
 print ' ** sqlite version: %s'%sqlite3.sqlite_version
 
