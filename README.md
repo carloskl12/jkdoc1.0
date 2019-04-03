@@ -32,4 +32,5 @@ La ventana de filtros, permite buscar en la base de datos las respuestas asociad
 Las librerías requeridas son:
 * wx: probada la version 3.0.2.0
 * sqlite: probada la versión 3.11.0
+
 Se ha probado el programa en la versión 2.7.12 de python.
